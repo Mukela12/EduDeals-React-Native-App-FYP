@@ -5,7 +5,7 @@ The roles of the users include Student and Business. The company mobile applicat
 features: looking through coupons, examining the goods or services that a company offers, adding discounted goods to your cart, paying for them, placing an order, and performing database search for a discount by a business.
 
 
-![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/2b1b0b22-92cd-4426-814e-801c5ef1ba4f)
+## ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/2b1b0b22-92cd-4426-814e-801c5ef1ba4f)
 
 
 
