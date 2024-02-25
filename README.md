@@ -1,8 +1,8 @@
 ## Student Discount Application
 
 ### Use-case Diagram 
-The roles of the users include Student and Business. The company mobile application's primary tasks are order taking and product management. The mobile application for students has the following
-features: looking through coupons, examining the goods or services that a company offers, adding discounted goods to your cart, paying for them, placing an order, and performing database search for a discount by a business.
+The roles of the users include Student and Business, each role has two separate mobile applications. The business mobile application's primary tasks are order-taking and product management. The mobile application for students has the following
+features: looking through coupons, examining the goods or services that a company offers, adding discounted goods to your cart, paying for them, placing an order, and performing a database search for a discount by a business.
 
 
 ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/2b1b0b22-92cd-4426-814e-801c5ef1ba4f)
@@ -24,6 +24,9 @@ The Student side of the mobile application consists of 9 interfaces. The interfa
 include a splash screen, login page, create account page, profile page, monthly
 calculator page, verity otp page, add transaction page, cart screen page, checkout
 page, store page: 
+
+<img align="left" width="100" height="100" src="https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/503aee88-7e63-447c-a197-3f91a81afd2c">
+
 
 ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/503aee88-7e63-447c-a197-3f91a81afd2c)
 ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/cd258efa-3d05-467c-9b14-727c10469ce4)
