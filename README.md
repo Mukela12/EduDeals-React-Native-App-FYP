@@ -25,8 +25,6 @@ include a splash screen, login page, create account page, profile page, monthly
 calculator page, verity otp page, add transaction page, cart screen page, checkout
 page, store page: 
 
-<img align="left" width="100" height="100" src="https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/503aee88-7e63-447c-a197-3f91a81afd2c">
-
 
 ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/503aee88-7e63-447c-a197-3f91a81afd2c)
 ![image](https://github.com/Mukela12/EduDeals-React-Native-App-FYP/assets/65640620/cd258efa-3d05-467c-9b14-727c10469ce4)
